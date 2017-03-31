@@ -62,7 +62,7 @@ h6 {
 
 section#contact {
     background-color: #696969;
-    background-image: url('../img/jukebox.JPG');
+    background-image: url('img/jukebox.JPG');
     background-position: center;
     background-repeat: no-repeat;
 }
